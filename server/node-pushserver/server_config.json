@@ -1,7 +1,7 @@
 {
-    "mongodbUrl": "mongodb://<db_username>:<db_password>@<MongoDB Host>/<DB>",
+    "mongodbUrl": "mongodb://dbuser:asd757959@ds161255.mlab.com:61255/cnpunk",
 
     "gcm": {
-        "apiKey": "<PUT YOUR KEY RETRIEVED FROM GOOGLE API CONSOLE HERE>"
+        "apiKey": "AIzaSyBmXA8kToJS6MV_vQevN1-tAHon56H4_Vg"
     }
 }
